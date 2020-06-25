@@ -44,10 +44,10 @@ $ cd server/
 # Instale as depências do projeto
 $ npm install
 
-# Rode migrates
+# Rode as migrates
 $ npm run knex:migrate
 
-# Rode seeds
+# Rode as seeds
 $ npm run knex:seed
 
 # Inicie a API
