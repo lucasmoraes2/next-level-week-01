@@ -21,7 +21,7 @@ O Ecoleta :recycle: foi um projeto desenvolvido na primeira edição da semana N
 
 ## :rocket: Tecnologias
 
-* <img alt="Logo do NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="20" width="20"> [NodeJS][nodejs]
+* <img alt="Logo do NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="20" width="20"> [Node.js][nodejs]
 * <img alt="Logo do TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="20" width="20"> [TypeScript][typescript]
 * <img alt="Logo do ReactJS" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="20" width="20"> [ReactJS][reactjs]
 * <img alt="Logo do React Native" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="20" width="20"> [React Native][reactnative]
